@@ -68,7 +68,7 @@ plt.ylabel("Number of Students")
 plt.show()
 ```
 
-<img src="<custom-path>/static/imgs/Student_Support.png"   
+<img src="static/imgs/Student_Support.png"   
 width="500"/>
 
 
@@ -90,7 +90,7 @@ plt.xlabel("Perceived Course Pace")
 plt.ylabel("Support for Livestreaming (1-7)")
 plt.show()
 ```
-<img src="<custom-path>/static/imgs/Student_Pace_Support.png"   width="500"/>
+<img src="static/imgs/Student_Pace_Support.png"   width="500"/>
 
 ## Plot 3: Livestream vs. Lesson Video Effectiveness
 
@@ -110,7 +110,7 @@ plt.xlabel("Lesson Video Effectiveness")
 plt.ylabel("Support for Livestreaming (1-7)")
 plt.show()
 ```
-<img src="<custom-path>/static/imgs/Lesson_Videos_Effectivity.png"   width="500"/>
+<img src="static/imgs/Lesson_Videos_Effectivity.png"   width="500"/>
 
 ## 5. Conclusion
 My analysis dived into whether COMP110 should start livestreaming lectures and post them online. The data that has been gathered from the surveys supports this idea. In Plot 1, it can be seen that 393 out of 534 students gave a score of 5 or higher, and 201 gave the maximum score of 7. In Plot 2, it showed a strong trend that students who find the course pace too fast are more likely to support livestreaming since it would provide the opportunity to rewatch content. For Plot 3, it can be seen that students who find video lessons effective are more likely to be in favor of wanting livestreaming, indicating that students who value video content would find livestreaming as a beneficial component of the course.
